@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\arcorAppsNew\\tango-examples-c-master\\tango-examples-c-master\\cpp_augmented_reality_example\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\arcorAppsNew\\tango-examples-c-master\\tango-examples-c-master\\cpp_augmented_reality_example\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\arcorAppsNew\\tango-examples-c-master\\tango-examples-c-master\\cpp_augmented_reality_example\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_augmented_reality.xml.flat",
+        "source": "E:\\arcorAppsNew\\tango-examples-c-master\\tango-examples-c-master\\cpp_augmented_reality_example\\app\\src\\main\\res\\layout\\activity_augmented_reality.xml"
+    }
+]

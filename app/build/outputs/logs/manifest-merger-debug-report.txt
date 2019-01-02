@@ -1,0 +1,84 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [:cpp_example_util] E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_example_util\app\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:1-25:12
+INJECTED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:3:5-61
+	android:versionName
+		ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml
+		INJECTED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:4:5-28
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:8:5-95
+	android:required
+		ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:8:68-92
+	android:name
+		ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:8:19-67
+uses-feature#0x00020000
+ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:9:5-78
+	android:glEsVersion
+		ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:9:19-51
+	android:required
+		ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:9:52-75
+uses-permission#android.permission.CAMERA
+ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:10:22-62
+application
+ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:12:5-29:19
+	android:label
+		ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:14:9-45
+	android:allowBackup
+		ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:16:9-40
+uses-library#com.projecttango.libtango_device2
+ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:17:9-19:39
+	android:required
+		ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:18:13-61
+activity#com.projecttango.examples.cpp.augmentedreality.AugmentedRealityActivity
+ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:label
+		ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:23:13-50
+	android:configChanges
+		ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:22:13-59
+	android:name
+		ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:21:13-99
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:24:13-27:29
+	android:label
+		ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:24:28-60
+action#android.intent.action.MAIN
+ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml
+INJECTED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml
+MERGED from [:cpp_example_util] E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_example_util\app\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:21:5-23:41
+MERGED from [:cpp_example_util] E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_example_util\app\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:21:5-23:41
+INJECTED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml
+INJECTED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml
+		ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml
+		INJECTED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml
+		ADDED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml
+		INJECTED from E:\arcorAppsNew\tango-examples-c-master\tango-examples-c-master\cpp_augmented_reality_example\app\src\main\AndroidManifest.xml
